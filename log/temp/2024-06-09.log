@@ -1,0 +1,12 @@
+[INFO] [2024-06-09 09:30:37] Hello World!
+[DEBUG] [2024-06-09 09:30:37] H.e.l.l.o W.o.r.l.d!
+[WARN] [2024-06-09 09:30:37] H e l l o W o r l d!
+[ERROR] [2024-06-09 09:30:37] Hallo World!
+[2024-06-09 09:36:36]-[INFO] - Hello World!
+[2024-06-09 09:36:36]-[DEBUG] - H.e.l.l.o W.o.r.l.d!
+[2024-06-09 09:36:36]-[WARN] - H e l l o W o r l d!
+[2024-06-09 09:36:36]-[ERROR] - Hallo World!
+[log.c:148]-[2024-06-09 09:39:29]-[INFO] - Hello World!
+[log.c:148]-[2024-06-09 09:39:29]-[DEBUG] - H.e.l.l.o W.o.r.l.d!
+[log.c:148]-[2024-06-09 09:39:29]-[WARN] - H e l l o W o r l d!
+[log.c:148]-[2024-06-09 09:39:29]-[ERROR] - Hallo World!
